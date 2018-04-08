@@ -52,7 +52,6 @@ public class Main {
     }
 
     private static int replace(int num){
-        int a = 12;
         return num - 65;
     }
 }
